@@ -1,11 +1,36 @@
-<DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="pt-BR">
 <head>
-<meta charset="UTF-8">
-     <title> carlos é gay</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Página Simples</title>
 </head>
 <body>
-<h1 o carlos é muito gay</h1>
-<p como eu estava dizendo ele é muito therian e viado</p>
+    <header>
+        <h1>Bem-vindo à minha página simples!</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+
+    <section id="sobre">
+        <h2>Sobre</h2>
+        <p>Esta é uma página de exemplo para aprender HTML.</p>
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Você pode me encontrar em: <a href="mailto:exemplo@dominio.com">exemplo@dominio.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Minha Página Simples</p>
+    </footer>
 </body>
 </html>
+
+
